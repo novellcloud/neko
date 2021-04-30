@@ -137,10 +137,10 @@
       "TopSites": true
     },
     "FlashPlugin": {},
-    "HardwareAcceleration": false,
+    "HardwareAcceleration": true,
     "Homepage": {
       "Additional": [],
-      "StartPage": "none"
+      "StartPage": "https://www.google.com"
     },
     "NewTabPage": true,
     "NoDefaultBookmarks": true,
