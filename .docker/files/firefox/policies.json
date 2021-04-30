@@ -13,10 +13,10 @@
         "Placement": "toolbar"
       },
       {
-        "Title": "Netflix",
-        "URL": "https://netflix.com",
-        "Favicon": "https://www.netflix.com/favicon.ico",
-        "Folder": "Media",
+        "Title": "Google.com",
+        "URL": "https://www.google.com",
+        "Favicon": "https://pics.freeicons.io/uploads/icons/png/2659939281579738432-512.png",
+        "Folder": "Search",
         "Placement": "toolbar"
       },
       {
